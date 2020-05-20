@@ -1,4 +1,5 @@
-# feed-backward-NN-2-Hidden-layes
+# Backpropagation and Gradient Descent
+
 Now, in this repository, with the concept of [simple backward NN](https://github.com/majidhamzavi/Feed-Backward-NN), we can implement the backward calculations for a NN with 2 hidden layers. It is up to you to add more layers, but calculations could be tedious. 
 
 These are the flow for a NN with 2 hidden layers: 
